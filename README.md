@@ -1,2 +1,2 @@
-# vimala-kenopanishad
+# Vimala Kenopanishad
 Understanding Kenopanishad from Vimalaji
